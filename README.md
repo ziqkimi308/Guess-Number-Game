@@ -17,4 +17,4 @@
 
 ### Screenshots:
 
-<img width="297" alt="image" src="https://github.com/user-attachments/assets/02d4ed39-c1e2-42ab-ad1e-568d95373b2c">
+<img width="297" alt="image" src="https://github.com/user-attachments/assets/b74f4eb3-e54f-4f47-8609-875e067ad4f7">
