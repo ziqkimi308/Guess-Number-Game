@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Guess Number Game
+# Guess Number Game
 
 - The Guess Number Game is a simple game where the computer randomly selects a number between 1 and 100, and the player has to guess the number. The game offers two levels of difficulty: easy (10 attempts) and hard (5 attempts). The game continues until the player guesses the number correctly or runs out of attempts.
 
